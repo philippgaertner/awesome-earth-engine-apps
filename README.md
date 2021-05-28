@@ -4,14 +4,14 @@
 
 List of all available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
 
-## [1] "1 .  [104754190924](https://104754190924.users.earthengine.app)"
-## [1] "2 .  [19070241023](https://19070241023.users.earthengine.app)"
-## [1] "3 .  [19070241039](https://19070241039.users.earthengine.app)"
-## [1] "4 .  [19070241039](https://19070241039.users.earthengine.app)"
-## [1] "5 .  [19070241039](https://19070241039.users.earthengine.app)"
-## [1] "6 .  [19070241039](https://19070241039.users.earthengine.app)"
-## [1] "7 .  [19981211lmy](https://19981211lmy.users.earthengine.app)"
-## [1] "8 .  [19981211lmy](https://19981211lmy.users.earthengine.app)"
+1.  [104754190924](https://104754190924.users.earthengine.app)
+2.  [19070241023](https://19070241023.users.earthengine.app)
+3.  [19070241039](https://19070241039.users.earthengine.app)
+4.  [19070241039](https://19070241039.users.earthengine.app)
+5.  [19070241039](https://19070241039.users.earthengine.app)
+6.  [19070241039](https://19070241039.users.earthengine.app)
+7.  [19981211lmy](https://19981211lmy.users.earthengine.app)
+8.  [19981211lmy](https://19981211lmy.users.earthengine.app)
 
 
 <table class=" lightable-material-dark table table-hover table-condensed table-responsive" style='font-family: "Source Sans Pro", helvetica, sans-serif; margin-left: auto; margin-right: auto; width: auto !important; '>
