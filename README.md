@@ -8,15 +8,15 @@ List of all available [Google Earth Engine Apps](https://developers.google.com/e
  <thead>
   <tr>
    <th style="text-align:right;"> ID </th>
-   <th style="text-align:left;"> User_Link </th>
-   <th style="text-align:left;"> App_Link </th>
+   <th style="text-align:left;"> User Link </th>
+   <th style="text-align:left;"> App Link </th>
   </tr>
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> [104754190924](https://104754190924.users.earthengine.app) </td>
-   <td style="text-align:left;"> [test](https://104754190924.users.earthengine.app/view/test) </td>
+   <td style="text-align:right;">1</td>
+   <td style="text-align:left;">[104754190924](https://104754190924.users.earthengine.app)</td>
+   <td style="text-align:left;">[test](https://104754190924.users.earthengine.app/view/test)</td>
   </tr>
   <tr>
    <td style="text-align:right;"> 2 </td>
