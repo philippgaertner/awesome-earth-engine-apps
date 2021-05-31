@@ -4,7 +4,6 @@
 
 List of all available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
 
-[A](A)
 
 * [104754190924](https://104754190924.users.earthengine.app)
   + [test](https://104754190924.users.earthengine.app/view/test)
@@ -22,7 +21,7 @@ List of all available [Google Earth Engine Apps](https://developers.google.com/e
   + [Prueba1](https://20120206.users.earthengine.app/view/prueba1)
 * [350343914](https://350343914.users.earthengine.app)
   + [Protected area](https://350343914.users.earthengine.app/view/protected-area)
-## A {#A}
+## A
 * [aaraney](https://aaraney.users.earthengine.app)
   + [ecoregion-histogrammer](https://aaraney.users.earthengine.app/view/ecoregion-histogrammer)
 * [aasareansah](https://aasareansah.users.earthengine.app)
@@ -121,6 +120,7 @@ List of all available [Google Earth Engine Apps](https://developers.google.com/e
   + [Agricultural_GIS](https://aziza.users.earthengine.app/view/agriculturalgis)
 * [azkidna](https://azkidna.users.earthengine.app)
   + [spatial join](https://azkidna.users.earthengine.app/view/spatial-join)
+## B
 * [baldassarre](https://baldassarre.users.earthengine.app)
   + [srd](https://baldassarre.users.earthengine.app/view/srd) &#8226; [SRD Forest Monitoring](https://baldassarre.users.earthengine.app/view/srd-forest-monitoring)
 * [basic-scripts](https://basic-scripts.users.earthengine.app)
@@ -171,6 +171,7 @@ List of all available [Google Earth Engine Apps](https://developers.google.com/e
   + [CIMIS sites (Feb 2021)](https://bwilder95.users.earthengine.app/view/cimis-sites-feb-2021) &#8226; [Holy Fire Vegetation Recovery](https://bwilder95.users.earthengine.app/view/holy-fire-vegetation-recovery) &#8226; [The 800-mm isohyet: Health and hope (for U.S.)](https://bwilder95.users.earthengine.app/view/the-800-mm-isohyet-health-and-hope-for-us) &#8226; [UI-Best-Practice-Test-App](https://bwilder95.users.earthengine.app/view/ui-best-practice-test-app)
 * [bzgeo](https://bzgeo.users.earthengine.app)
   + [bz-cbc-defor-1984-2019-1](https://bzgeo.users.earthengine.app/view/bz-cbc-defor-1984-2019-1) &#8226; [bz-cbc-forest-cover-pt1](https://bzgeo.users.earthengine.app/view/bz-cbc-forest-cover-pt1) &#8226; [bz-cbc-forest-cover-pt2](https://bzgeo.users.earthengine.app/view/bz-cbc-forest-cover-pt2) &#8226; [bz-chiquibul-fires-2020-1](https://bzgeo.users.earthengine.app/view/bz-chiquibul-fires-2020-1) &#8226; [bz-chiquibul-fires-2020-2](https://bzgeo.users.earthengine.app/view/bz-chiquibul-fires-2020-2) &#8226; [bz-forest-cover-modis-pt1](https://bzgeo.users.earthengine.app/view/bz-forest-cover-modis-pt1) &#8226; [bz-forest-cover-modis-pt2](https://bzgeo.users.earthengine.app/view/bz-forest-cover-modis-pt2) &#8226; [bz-forest-cover-modis-pt3](https://bzgeo.users.earthengine.app/view/bz-forest-cover-modis-pt3) &#8226; [bz-landsat-s2](https://bzgeo.users.earthengine.app/view/bz-landsat-s2) &#8226; [bz-modis-viewer-2000-2019](https://bzgeo.users.earthengine.app/view/bz-modis-viewer-2000-2019) &#8226; [bz-phenology-modis-2018-2019](https://bzgeo.users.earthengine.app/view/bz-phenology-modis-2018-2019) &#8226; [bz-s1-multitemp](https://bzgeo.users.earthengine.app/view/bz-s1-multitemp) &#8226; [bz-s1-multitemp-asc](https://bzgeo.users.earthengine.app/view/bz-s1-multitemp-asc) &#8226; [bz-s2-20190420](https://bzgeo.users.earthengine.app/view/bz-s2-20190420) &#8226; [bz-s2-20190420-v2](https://bzgeo.users.earthengine.app/view/bz-s2-20190420-v2) &#8226; [bz-s2-20190420-v3](https://bzgeo.users.earthengine.app/view/bz-s2-20190420-v3) &#8226; [bzr-forest-cover-pt1](https://bzgeo.users.earthengine.app/view/bzr-forest-cover-pt1) &#8226; [bzr-forest-cover-pt2](https://bzgeo.users.earthengine.app/view/bzr-forest-cover-pt2) &#8226; [bzr-forest-cover-pt3](https://bzgeo.users.earthengine.app/view/bzr-forest-cover-pt3) &#8226; [cam-imagenes-modis-2000-2019-v0](https://bzgeo.users.earthengine.app/view/cam-imagenes-modis-2000-2019-v0) &#8226; [cam-imagenes-modis-2000-2019-v1](https://bzgeo.users.earthengine.app/view/cam-imagenes-modis-2000-2019-v1) &#8226; [cam-mbc-imagenes-modis-2000-2019-v0](https://bzgeo.users.earthengine.app/view/cam-mbc-imagenes-modis-2000-2019-v0) &#8226; [cam-mbc-imagenes-modis-2000-2019-v1](https://bzgeo.users.earthengine.app/view/cam-mbc-imagenes-modis-2000-2019-v1) &#8226; [date-mcd43a4](https://bzgeo.users.earthengine.app/view/date-mcd43a4) &#8226; [gt-atitlan-viewer-s2](https://bzgeo.users.earthengine.app/view/gt-atitlan-viewer-s2) &#8226; [gt-atitlan-viewer-s2-1](https://bzgeo.users.earthengine.app/view/gt-atitlan-viewer-s2-1) &#8226; [gt-peten-s1-multitemp](https://bzgeo.users.earthengine.app/view/gt-peten-s1-multitemp)
+## C
 * [cagutierrezra](https://cagutierrezra.users.earthengine.app)
   + [Hidroituango](https://cagutierrezra.users.earthengine.app/view/hidroituango)
 * [canal](https://canal.users.earthengine.app)
