@@ -1,6 +1,6 @@
 # Welcome to awesome-earth-engine-apps
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![https://img.shields.io/badge/GEE%20Community-Developer%20Resources-00b6ff.svg)](https://github.com/philippgaertner/awesome-earth-engine-apps/edit/main/README.md)
+[![GEE Apps](https://img.shields.io/badge/GEE%20Community-Developer%20Resources-00b6ff.svg)](https://github.com/philippgaertner/awesome-earth-engine-apps/edit/main/README.md)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Follow](https://img.shields.io/twitter/follow/Mixed_Pixels?style=social)](https://twitter.com/Mixed_Pixels)
 
