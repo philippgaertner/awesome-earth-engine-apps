@@ -4,11 +4,7 @@
 
 List of all available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
 
-# Tabset {.tabset .tabset-fade .tabset-pills} ## Tab 1
-text 1
-## Tab 2
-text 2
-### End tabset
+A {#anchor}
 
 * [104754190924](https://104754190924.users.earthengine.app)
   + [test](https://104754190924.users.earthengine.app/view/test)
@@ -26,7 +22,7 @@ text 2
   + [Prueba1](https://20120206.users.earthengine.app/view/prueba1)
 * [350343914](https://350343914.users.earthengine.app)
   + [Protected area](https://350343914.users.earthengine.app/view/protected-area)
-* [aaraney](https://aaraney.users.earthengine.app)
+* [aaraney](https://aaraney.users.earthengine.app)(#anchor)
   + [ecoregion-histogrammer](https://aaraney.users.earthengine.app/view/ecoregion-histogrammer)
 * [aasareansah](https://aasareansah.users.earthengine.app)
   + [Zoom Box_Kumasi](https://aasareansah.users.earthengine.app/view/zoom-boxkumasi)
