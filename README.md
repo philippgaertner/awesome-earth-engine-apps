@@ -4,7 +4,14 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Follow](https://img.shields.io/twitter/follow/Mixed_Pixels?style=social)](https://twitter.com/Mixed_Pixels)
 
-List of all available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
+An awesome list of all (1932) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
+
+## Overview
+
+The list is structured as follows:
+
+* John Doe App Gallery
+  + Individual Awesome App
 
 ## A
 * [aaraney](https://aaraney.users.earthengine.app)
