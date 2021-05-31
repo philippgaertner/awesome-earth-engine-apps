@@ -1,6 +1,5 @@
 # Welcome to awesome-earth-engine-apps
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GEE Apps](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/philippgaertner/awesome-earth-engine-apps/edit/main/README.md)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 List of all available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
