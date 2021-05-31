@@ -4,7 +4,7 @@
 
 List of all available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
 
-A {#anchor}
+A{#anchor}
 
 * [104754190924](https://104754190924.users.earthengine.app)
   + [test](https://104754190924.users.earthengine.app/view/test)
