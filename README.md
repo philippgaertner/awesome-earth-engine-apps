@@ -9,7 +9,7 @@ An awesome list of all (1.932) available [Google Earth Engine Apps](https://deve
 <p align="center">
   <img alt="tropomi-explorer" src="images/tropomi-explorer.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="sarworld" src="images/sarworld.png" width="45%">
+  <a href="https://kristofvantricht.users.earthengine.app/view/sarworld"><img alt="sarworld" src="images/sarworld.png" width="45%"></a>
 
 </p>
 
