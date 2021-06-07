@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Follow](https://img.shields.io/twitter/follow/Mixed_Pixels?style=social)](https://twitter.com/Mixed_Pixels)
 
-An awesome list of all (1.943) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
+An awesome list of all (1.948) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
 
 <p align="center">
   <a href="https://jstnbraaten.users.earthengine.app/view/tropomi-explorer"><img alt="tropomi-explorer" src="images/tropomi-explorer.png" width="45%"></a>
@@ -27,6 +27,12 @@ The list is structured as follows:
   + [Zoom Box_Kumasi](https://aasareansah.users.earthengine.app/view/zoom-boxkumasi)
 * [abkdom](https://abkdom.users.earthengine.app)
   + [ABK_APP](https://abkdom.users.earthengine.app/view/abkapp)
+* [abmigc](https://abmigc.users.earthengine.app/)
+  + [har](https://abmigc.users.earthengine.app/view/har)
+  + [harvest-area-spectral-regen-2018](https://abmigc.users.earthengine.app/view/harvest-area-spectral-regen-2018)
+  + [interiorhabitat](https://abmigc.users.earthengine.app/view/interiorhabitat)
+  + [plc-amwi](https://abmigc.users.earthengine.app/view/plc-amwi)
+  + [plc30](https://abmigc.users.earthengine.app/view/plc30)
 * [abocin](https://abocin.users.earthengine.app)
   + [AccessibilityToHospitals](https://abocin.users.earthengine.app/view/accessibilitytohospitals) &#8226; [Air Quality](https://abocin.users.earthengine.app/view/air-quality) &#8226; [Damage Assessment Floods UN](https://abocin.users.earthengine.app/view/damage-assessment-floods-un) &#8226; [EcoVrede Analysis](https://abocin.users.earthengine.app/view/ecovrede-analysis) &#8226; [EcoVrede ToolKit](https://abocin.users.earthengine.app/view/ecovrede-toolkit) &#8226; [ForestHealth](https://abocin.users.earthengine.app/view/foresthealth) &#8226; [Water Quality](https://abocin.users.earthengine.app/view/water-quality)
 * [addielloyd](https://addielloyd.users.earthengine.app)
