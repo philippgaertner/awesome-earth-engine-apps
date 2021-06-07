@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Follow](https://img.shields.io/twitter/follow/Mixed_Pixels?style=social)](https://twitter.com/Mixed_Pixels)
 
-An awesome list of all (1.933) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
+An awesome list of all (1.938) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
 
 <p align="center">
   <a href="https://jstnbraaten.users.earthengine.app/view/tropomi-explorer"><img alt="tropomi-explorer" src="images/tropomi-explorer.png" width="45%"></a>
@@ -776,6 +776,12 @@ The list is structured as follows:
   + [Amazon Fires](https://nicolasalejandromari.users.earthengine.app/view/amazon-fires) &#8226; [IIFF Cuchi Corral 2020](https://nicolasalejandromari.users.earthengine.app/view/iiff-cuchi-corral-2020) &#8226; [Areas Quemadas en Villa Albertina](https://nicolasalejandromari.users.earthengine.app/view/reas-quemadas-en-villa-albertina)
 * [nicosv95](https://nicosv95.users.earthengine.app)
   + [MTIG_PROG_G3_TR17](https://nicosv95.users.earthengine.app/view/mtigprogg3tr17)
+* [nina](https://nina.earthengine.app/)
+  + [forest-disturbance](https://nina.earthengine.app/view/forest-disturbance)
+  + [green-roof-mcda](https://nina.earthengine.app/view/green-roof-mcda)
+  + [lockdown-pollution](https://nina.earthengine.app/view/lockdown-pollution)
+  + [urban-nature-atlas](https://nina.earthengine.app/view/urban-nature-atlas)
+  + [urbaneea-automatic-landcover](https://nina.earthengine.app/view/urbaneea-automatic-landcover)
 * [niteshpatidar88](https://niteshpatidar88.users.earthengine.app)
   + [IS_ncr](https://niteshpatidar88.users.earthengine.app/view/isncr)
 * [njaumaggielu](https://njaumaggielu.users.earthengine.app)
