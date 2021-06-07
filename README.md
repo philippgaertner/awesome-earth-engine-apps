@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Follow](https://img.shields.io/twitter/follow/Mixed_Pixels?style=social)](https://twitter.com/Mixed_Pixels)
 
-An awesome list of all (1.948) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
+An awesome list of all (1.951) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
 
 <p align="center">
   <a href="https://jstnbraaten.users.earthengine.app/view/tropomi-explorer"><img alt="tropomi-explorer" src="images/tropomi-explorer.png" width="45%"></a>
@@ -991,6 +991,8 @@ The list is structured as follows:
   + [Test](https://shawfi.users.earthengine.app/view/test) &#8226; [TimeSeriesReconstruction](https://shawfi.users.earthengine.app/view/timeseriesreconstruction)
 * [shilosh](https://shilosh.users.earthengine.app)
   + [Continuous LST](https://shilosh.users.earthengine.app/view/continuous-lst) &#8226; [Emergence2Heading](https://shilosh.users.earthengine.app/view/emergence2heading) &#8226; [Hishtablout](https://shilosh.users.earthengine.app/view/hishtablout) &#8226; [LSTcont Chart Inspector](https://shilosh.users.earthengine.app/view/lstcont-chart-inspector)
+* [showcase](https://showcase.earthengine.app/)
+  + [jrc-global-surface-water-animation](https://showcase.earthengine.app/view/jrc-global-surface-water-animation) &#8226; [s2-sr-browser-s2cloudless-nb](https://showcase.earthengine.app/view/s2-sr-browser-s2cloudless-nb) &#8226; [tropomi-explorer](https://showcase.earthengine.app/view/tropomi-explorer)
 * [shree1175](https://shree1175.users.earthengine.app)
   + [Childsmeadow_v2.2](https://Shree1175.users.earthengine.app/view/childsmeadowv21) &#8226; [MonitoringSagehen](https://Shree1175.users.earthengine.app/view/monitoringsagehen) &#8226; [TNC-CA-TreeInequality1.3.4](https://Shree1175.users.earthengine.app/view/tnc-ca-treeinequality131) &#8226; [UrbanTreeInequalityAtlas_2016_v3.9](https://Shree1175.users.earthengine.app/view/urbanforestatlast2016v25) &#8226; [View_US_UrbanTreeCover2016](https://Shree1175.users.earthengine.app/view/usurbantreecover2016)
 * [sigcica](https://sigcica.users.earthengine.app)
