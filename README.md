@@ -215,6 +215,8 @@ The list is structured as follows:
   + [Forest_musk_generation](https://collinsasegaca.users.earthengine.app/view/forestmuskgeneration)
 * [coopshen](https://coopshen.users.earthengine.app)
   + [Flooding](https://coopshen.users.earthengine.app/view/flooding)
+* [corneliussenf](https://corneliussenf.users.earthengine.app/)
+  + [european-disturbance-map](https://corneliussenf.users.earthengine.app/view/european-disturbance-map)
 * [cpwaldman](https://cpwaldman.users.earthengine.app)
   + [App_v0.1](https://cpwaldman.users.earthengine.app/view/appv01) &#8226; [prueba](https://cpwaldman.users.earthengine.app/view/prueba) &#8226; [Prueba 4](https://cpwaldman.users.earthengine.app/view/prueba-4) &#8226; [prueba2](https://cpwaldman.users.earthengine.app/view/prueba2) &#8226; [prueba3](https://cpwaldman.users.earthengine.app/view/prueba3)
 * [craigds](https://craigds.users.earthengine.app)
