@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Follow](https://img.shields.io/twitter/follow/Mixed_Pixels?style=social)](https://twitter.com/Mixed_Pixels)
 
-An awesome list of all (1.932) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
+An awesome list of all (1.933) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
 
 <p align="center">
   <a href="https://jstnbraaten.users.earthengine.app/view/tropomi-explorer"><img alt="tropomi-explorer" src="images/tropomi-explorer.png" width="45%"></a>
@@ -571,6 +571,7 @@ The list is structured as follows:
 * [jstnbraaten](https://jstnbraaten.users.earthengine.app)
   + [conus-cover-vis](https://jstnbraaten.users.earthengine.app/view/conus-cover-vis) &#8226; [Kincade-Fire-Explorer](https://jstnbraaten.users.earthengine.app/view/kincade-fire-explorer) &#8226; [Tongass-NF-Logging](https://jstnbraaten.users.earthengine.app/view/tongass-nf-logging) &#8226; [tropomi-explorer](https://jstnbraaten.users.earthengine.app/view/tropomi-explorer)
 * [juandb](https://juandb.users.earthengine.app)
+  + [SAR Watcher](https://juandb.users.earthengine.app/view/sar-watcher)
   + [SIRAD_ISA](https://juandb.users.earthengine.app/view/siradisa)
 * [juantorres-batllo](https://juantorres-batllo.users.earthengine.app)
   + [App_trial](https://juantorres-batllo.users.earthengine.app/view/apptrial) &#8226; [Barcelona 4.0](https://juantorres-batllo.users.earthengine.app/view/barcelona-40) &#8226; [Barcelona_point](https://juantorres-batllo.users.earthengine.app/view/barcelonapoint) &#8226; [CHIRPS Explorer 2.0](https://juantorres-batllo.users.earthengine.app/view/chirps-explorer-20) &#8226; [Explorador de CHIRPS](https://juantorres-batllo.users.earthengine.app/view/explorador-de-chirps) &#8226; [Precipitation trends](https://juantorres-batllo.users.earthengine.app/view/precipitation-trends) &#8226; [Rainfall data explorer 4.0](https://juantorres-batllo.users.earthengine.app/view/rainfall-data-explorer-40) &#8226; [Rainfall Explorer 2.0](https://juantorres-batllo.users.earthengine.app/view/rainfall-explorer-20) &#8226; [Rainfall Explorer 5.0](https://juantorres-batllo.users.earthengine.app/view/rainfall-explorer-50) &#8226; [TRIAL](https://juantorres-batllo.users.earthengine.app/view/trial)
