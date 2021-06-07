@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Follow](https://img.shields.io/twitter/follow/Mixed_Pixels?style=social)](https://twitter.com/Mixed_Pixels)
 
-An awesome list of all (1.942) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
+An awesome list of all (1.943) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
 
 <p align="center">
   <a href="https://jstnbraaten.users.earthengine.app/view/tropomi-explorer"><img alt="tropomi-explorer" src="images/tropomi-explorer.png" width="45%"></a>
@@ -506,6 +506,8 @@ The list is structured as follows:
 * [iwankubus](https://iwankubus.users.earthengine.app)
   + [TryAPP](https://iwankubus.users.earthengine.app/view/tryapp)
 ## J
+* [jaafarhadi](https://jaafarhadi.users.earthengine.app/)
+  + [hydrologic-curve-number](https://jaafarhadi.users.earthengine.app/view/hydrologic-curve-number#GEE)
 * [jackreid](https://jackreid.users.earthengine.app)
   + [jackreidghana](https://jackreid.users.earthengine.app/view/jackreidghana) &#8226; [jackreidrio](https://jackreid.users.earthengine.app/view/jackreidrio)
 * [jackrobison](https://jackrobison.users.earthengine.app)
