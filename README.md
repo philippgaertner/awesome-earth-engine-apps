@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Follow](https://img.shields.io/twitter/follow/Mixed_Pixels?style=social)](https://twitter.com/Mixed_Pixels)
 
-An awesome list of all (1.940) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
+An awesome list of all (1.942) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
 
 <p align="center">
   <a href="https://jstnbraaten.users.earthengine.app/view/tropomi-explorer"><img alt="tropomi-explorer" src="images/tropomi-explorer.png" width="45%"></a>
@@ -315,6 +315,8 @@ The list is structured as follows:
   + [RivWidthCloud validation](https://eeProject.users.earthengine.app/view/rivwidthcloud-validation)
 * [eeyale](https://eeyale.users.earthengine.app)
   + [Test App](https://eeyale.users.earthengine.app/view/test-app)
+* [eip](https://eip.earthengine.app/)
+  + [air-quality-explorer-v1](https://eip.earthengine.app/view/air-quality-explorer-v1) &#8226; [waterexplorer](https://eip.earthengine.app/view/waterexplorer)
 * [eladente](https://eladente.users.earthengine.app)
   + [PatchiV1](https://eladente.users.earthengine.app/view/patchiv1)
 * [elnashar](https://elnashar.users.earthengine.app)
