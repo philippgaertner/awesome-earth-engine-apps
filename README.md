@@ -393,7 +393,7 @@ The list is structured as follows:
 * [fudongjie](https://fudongjie.users.earthengine.app)
   + [aurora](https://fudongjie.users.earthengine.app/view/aurora) &#8226; [SeasonalCrop](https://fudongjie.users.earthengine.app/view/seasonalcrop) &#8226; [Thailand_Trip](https://fudongjie.users.earthengine.app/view/thailandtrip)
 ## G
-* [gaertnerp](https://gaertnerp.users.earthengine.app) <a href="https://twitter.com/Mixed_Pixels"><img src="images/twitter_icon_16px.png"></a>
+* [gaertnerp](https://gaertnerp.users.earthengine.app) <a href="https://twitter.com/Mixed_Pixels"><img src="images/twitter_logo_icon_16px.png"></a>
   + [Europe Air Quality Winner](https://gaertnerp.users.earthengine.app/view/europe-air-quality-winner) &#8226; [Sentinel2-ingestion-status](https://gaertnerp.users.earthengine.app/view/sentinel2-ingestion-status)
 * [gaguilar](https://gaguilar.users.earthengine.app)
   + [FIRES PY](https://gaguilar.users.earthengine.app/view/fires-py) &#8226; [Incendios](https://gaguilar.users.earthengine.app/view/incendios) &#8226; [Landsat PY 2000-2020s](https://gaguilar.users.earthengine.app/view/landsat-py-2000-2020) &#8226; [nbr](https://gaguilar.users.earthengine.app/view/nbr) &#8226; [Selva Maya PY](https://gaguilar.users.earthengine.app/view/selva-maya-py)
