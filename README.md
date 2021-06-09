@@ -427,7 +427,7 @@ The list is structured as follows:
   + [Aluvion de ChaÃ±aral 25 Marzo de 2015](https://gerardosoto.users.earthengine.app/view/aluvion-de-chaaral-25-marzo-de-2015) &#8226; [Bosque Chileno](https://gerardosoto.users.earthengine.app/view/bosque-chileno) &#8226; [Forest Change (2000-2016)](https://gerardosoto.users.earthengine.app/view/forest-change-2000-2016) &#8226; [NDVI 2018-2020](https://gerardosoto.users.earthengine.app/view/ndvi-2018-2020) &#8226; [Paneles fuegos UADER](https://gerardosoto.users.earthengine.app/view/paneles-fuegos-uader)
 * [gervasiopineiro](https://gervasiopineiro.users.earthengine.app)
   + [GyC_AbayubaRibas](https://gervasiopineiro.users.earthengine.app/view/gycabayubaribas)
-* [gfiske](https://gfiske.users.earthengine.app)
+* [gfiske](https://gfiske.users.earthengine.app) <a href="https://twitter.com/g_fiske"><img src="images/twitter_logo_icon_16px.png"></a>
   + [biomassChangeInspector](https://gfiske.users.earthengine.app/view/biomasschangeinspector) &#8226; [GangesPrecipInspector](https://gfiske.users.earthengine.app/view/gangesprecipinspector)
 * [ghifariroyan](https://ghifariroyan.users.earthengine.app)
   + [Banjir NTT](https://ghifariroyan.users.earthengine.app/view/ghifariroyan)
