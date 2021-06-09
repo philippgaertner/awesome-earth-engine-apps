@@ -624,7 +624,7 @@ The list is structured as follows:
   + [test123](https://kmccallum.users.earthengine.app/view/test123)
 * [kongdd](https://kongdd.users.earthengine.app)
   + [Inspect_Phenocam](https://kongdd.users.earthengine.app/view/inspectphenocam)
-* [kristofvantricht](https://kristofvantricht.users.earthengine.app)
+* [kristofvantricht](https://kristofvantricht.users.earthengine.app) <a href="https://twitter.com/K_VanTricht"><img src="images/twitter_logo_icon_16px.png"></a>
   + [SARworld](https://kristofvantricht.users.earthengine.app/view/sarworld)
 * [ksa-gee-2020-21](https://ksa-gee-2020-21.users.earthengine.app)
   + [Aberdare Forest LC Classification Comparison](https://KSA-GEE-2020-21.users.earthengine.app/view/abadare-forest-lc-classification-comparison) &#8226; [Kibiku Forest Land Cover Classification and Comparison](https://KSA-GEE-2020-21.users.earthengine.app/view/kibiku-forest-classification-comparison) &#8226; [Oloolua Forest Land Cover Classification and Comparison](https://KSA-GEE-2020-21.users.earthengine.app/view/oloolua-forest-land-cover-classification-and-comparison)
@@ -793,7 +793,7 @@ The list is structured as follows:
   + [jssNDVI](https://njaumaggielu.users.earthengine.app/view/jssndvi) &#8226; [NDVIjs](https://njaumaggielu.users.earthengine.app/view/ndvijs)
 * [njberkowitz95](https://njberkowitz95.users.earthengine.app)
   + [NDVI Time Series](https://njberkowitz95.users.earthengine.app/view/ndvi-time-series) &#8226; [2000Pal](https://njberkowitz95.users.earthengine.app/view/pal) &#8226; [Pal2010](https://njberkowitz95.users.earthengine.app/view/pal2010) &#8226; [1990Palawan](https://njberkowitz95.users.earthengine.app/view/palawan) &#8226; [Palawan Forest](https://njberkowitz95.users.earthengine.app/view/pall) &#8226; [Palwan2019](https://njberkowitz95.users.earthengine.app/view/palwan2019) &#8226; [testing](https://njberkowitz95.users.earthengine.app/view/testing)
-* [nkeikon](https://nkeikon.users.earthengine.app)
+* [nkeikon](https://nkeikon.users.earthengine.app) <a href="https://twitter.com/Keiko_geo"><img src="images/twitter_logo_icon_16px.png"></a>
   + [Chennai draught 2018-2019](https://nkeikon.users.earthengine.app/view/chennai) &#8226; [Chennai draught 2016-2019](https://nkeikon.users.earthengine.app/view/chennai4) &#8226; [Protected Area Loss 2001-2018](https://nkeikon.users.earthengine.app/view/protectedarealoss) &#8226; [Cyclone Idai Flood Mozambique](https://nkeikon.users.earthengine.app/view/s1idai) &#8226; [Tanintharyi oil palm and rubber map](https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map) &#8226; [Tanintharyi oil palm and rubber map with pie chart](https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map-with-pie-chart) &#8226; [Tanintharyi oil palm and rubber map with bar chart](https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-with-bar-chart)
 * [nkwjones](https://nkwjones.users.earthengine.app)
   + [rize_S2](https://nkwjones.users.earthengine.app/view/rizes2)
