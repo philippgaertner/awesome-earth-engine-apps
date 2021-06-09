@@ -460,7 +460,7 @@ The list is structured as follows:
   + [vis-sentinel-1-color-ina](https://hadicu06.users.earthengine.app/view/vis-sentinel-1-color-ina)
 * [hammadgilani](https://hammadgilani.users.earthengine.app)
   + [SampleLandCover](https://hammadgilani.users.earthengine.app/view/samplelandcover) &#8226; [Time series graphs N02 and absorbing aerosol index](https://hammadgilani.users.earthengine.app/view/time-series-graphsn02-and-absorbing-aerosol-index)
-* [hareldunn](https://hareldunn.users.earthengine.app)
+* [hareldunn](https://hareldunn.users.earthengine.app) <a href="https://twitter.com/HarelDan"><img src="images/twitter_logo_icon_16px.png"></a>
   + [Mine Sign Detection](https://hareldunn.users.earthengine.app/view/mine-sign-detection) &#8226; [Precipitation-Sensitive Dynamic Threshold](https://hareldunn.users.earthengine.app/view/precipitation-sensitive-dynamic-threshold) &#8226; [Sentinel 1 MT](https://hareldunn.users.earthengine.app/view/sentinel-1-mt)
 * [harrygibson](https://harrygibson.users.earthengine.app)
   + [Paddy Rice Estimator](https://harrygibson.users.earthengine.app/view/paddy-rice-estimator)
