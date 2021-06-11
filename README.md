@@ -77,7 +77,7 @@ The list is structured as follows:
   + [Fire_on_RiservaDelloZingaro](https://andreatassi23.users.earthengine.app/view/fireonriservadellozingaro) &#8226; [NDVI_TimeSeries](https://andreatassi23.users.earthengine.app/view/ndvitimeseries)
 * [andreim](https://andreim.users.earthengine.app/)
   + [bfastmonitor](https://andreim.users.earthengine.app/view/bfastmonitor)
-* [andreydara](https://andreydara.users.earthengine.app)
+* [andreydara](https://andreydara.users.earthengine.app) <a href="https://twitter.com/AndreyDara"><img src="images/twitter_logo_icon_16px.png"></a>
   + [GrazingPressure2007](https://andreydara.users.earthengine.app/view/grazingpressure2007) &#8226; [GrazingPressure3](https://andreydara.users.earthengine.app/view/grazingpressure3)
 * [anighosh](https://anighosh.users.earthengine.app)
   + [biogeo time series modis](https://anighosh.users.earthengine.app/view/biogeo-time-series-modis)
@@ -219,7 +219,7 @@ The list is structured as follows:
   + [Forest_musk_generation](https://collinsasegaca.users.earthengine.app/view/forestmuskgeneration)
 * [coopshen](https://coopshen.users.earthengine.app)
   + [Flooding](https://coopshen.users.earthengine.app/view/flooding)
-* [corneliussenf](https://corneliussenf.users.earthengine.app/)
+* [corneliussenf](https://corneliussenf.users.earthengine.app/) <a href="https://twitter.com/corneliussenf"><img src="images/twitter_logo_icon_16px.png"></a>
   + [european-disturbance-map](https://corneliussenf.users.earthengine.app/view/european-disturbance-map)
 * [cpwaldman](https://cpwaldman.users.earthengine.app)
   + [App_v0.1](https://cpwaldman.users.earthengine.app/view/appv01) &#8226; [prueba](https://cpwaldman.users.earthengine.app/view/prueba) &#8226; [Prueba 4](https://cpwaldman.users.earthengine.app/view/prueba-4) &#8226; [prueba2](https://cpwaldman.users.earthengine.app/view/prueba2) &#8226; [prueba3](https://cpwaldman.users.earthengine.app/view/prueba3)
@@ -227,7 +227,7 @@ The list is structured as follows:
   + [Aarey Forest](https://craigds.users.earthengine.app/view/aarey-forest) &#8226; [mithi-watershed](https://craigds.users.earthengine.app/view/mithi-watershed)
 * [crivard](https://crivard.users.earthengine.app)
   + [gppchange](https://crivard.users.earthengine.app/view/gppchange) &#8226; [Rangelands Explorer](https://crivard.users.earthengine.app/view/rangelands-explorer)
-* [csaybar](https://csaybar.users.earthengine.app)
+* [csaybar](https://csaybar.users.earthengine.app) <a href="https://twitter.com/csaybar"><img src="images/twitter_logo_icon_16px.png"></a>
   + [csaa](https://csaybar.users.earthengine.app/view/csaa)
 * [cyr9699](https://cyr9699.users.earthengine.app)
   + [SDG](https://cyr9699.users.earthengine.app/view/sdg)
@@ -376,7 +376,7 @@ The list is structured as follows:
   + [NDVI Suoh](https://fikriabdulhalim2204.users.earthengine.app/view/ndvi)
 * [firsake](https://firsake.users.earthengine.app)
   + [Fire Detector](https://firsake.users.earthengine.app/view/fire-detector) &#8226; [Global Flood](https://firsake.users.earthengine.app/view/global-flood) &#8226; [KWRTP](https://firsake.users.earthengine.app/view/kwrtp) &#8226; [Rwanda LUDSS](https://firsake.users.earthengine.app/view/rwanda-ludss) &#8226; [satellite_image_picker_UNBS](https://firsake.users.earthengine.app/view/satelliteimagepickerunbs)
-* [fitoprincipe](https://fitoprincipe.users.earthengine.app)
+* [fitoprincipe](https://fitoprincipe.users.earthengine.app) <a href="https://twitter.com/fitoprincipe"><img src="images/twitter_logo_icon_16px.png"></a>
   + [Snic App](https://fitoprincipe.users.earthengine.app/view/snic-app) &#8226; [stretch](https://fitoprincipe.users.earthengine.app/view/stretch) &#8226; [Validation App](https://fitoprincipe.users.earthengine.app/view/validation-app)
 * [fjmesas](https://fjmesas.users.earthengine.app)
   + [RVI](https://fjmesas.users.earthengine.app/view/rvi)
@@ -526,7 +526,7 @@ The list is structured as follows:
   + [first](https://jasonyumail1984.users.earthengine.app/view/first) &#8226; [the amazon fires](https://jasonyumail1984.users.earthengine.app/view/the-amazon-fires)
 * [jayamapleton](https://jayamapleton.users.earthengine.app)
   + [NDVI UCLA and Los Angeles](https://jayamapleton.users.earthengine.app/view/ndvi-ucla-and-los-angeles)
-* [jdeines](https://jdeines.users.earthengine.app)
+* [jdeines](https://jdeines.users.earthengine.app) <a href="https://twitter.com/JillDeines"><img src="images/twitter_logo_icon_16px.png"></a>
   + [Irrigation in the High Plains Aquifer, United States, 1984-2017](https://jdeines.users.earthengine.app/view/irrigation-in-the-high-plains-aquifer-united-states-1984-2017)
 * [jeff](https://jeff.users.earthengine.app)
   + [Sampling](https://jeff.users.earthengine.app/view/sampling)
@@ -548,7 +548,7 @@ The list is structured as follows:
   + [Flood_2019](https://jirawatdaraneesrisuk.users.earthengine.app/view/flood2019) &#8226; [NDVI MAP THAILAND](https://jirawatdaraneesrisuk.users.earthengine.app/view/ndvi-map-thailand) &#8226; [NDVI_GEESWU](https://jirawatdaraneesrisuk.users.earthengine.app/view/ndvigeeswu) &#8226; [SWU_waterarea](https://jirawatdaraneesrisuk.users.earthengine.app/view/swuwaterarea)
 * [jmalleswararao](https://jmalleswararao.users.earthengine.app)
   + [DataCubeMC](https://jmalleswararao.users.earthengine.app/view/datacubemc) &#8226; [GHSL](https://jmalleswararao.users.earthengine.app/view/ghsl) &#8226; [SpatialDataCube](https://jmalleswararao.users.earthengine.app/view/spatialdatacube) &#8226; [SpatialDataCubeNew](https://jmalleswararao.users.earthengine.app/view/spatialdatacubenew)
-* [jnhird](https://jnhird.users.earthengine.app)
+* [jnhird](https://jnhird.users.earthengine.app) <a href="https://twitter.com/JNHird"><img src="images/twitter_logo_icon_16px.png"></a>
   + [ABMI-Harvest-Area-Regen-2018](https://jnhird.users.earthengine.app/view/abmiharvestarearegen2018)
 * [jnmusinsky](https://jnmusinsky.users.earthengine.app)
   + [GOES 16 Flight Box Cloud Fractions Calculator - East - Buffered](https://jnmusinsky.users.earthengine.app/view/goes-16-flight-box-cloud-fractions-calculator---east---buffered) &#8226; [GOES 17 Flight Box Cloud Fractions Calculator - West - Buffered](https://jnmusinsky.users.earthengine.app/view/goes-17-flight-box-cloud-fractions-calculator---west---buffered) &#8226; [GOES 16 Flight Box Cloud Fractions Calculator - Eastern U.S.](https://jnmusinsky.users.earthengine.app/view/goes-flight-box-cloud-fractions-calculator---goes-16-east-v10c) &#8226; [GOES 17 Flight Box Cloud Fractions Calculator - Western U.S.](https://jnmusinsky.users.earthengine.app/view/goes-flight-box-cloud-fractions-calculator---goes-17-west)
