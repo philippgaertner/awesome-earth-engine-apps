@@ -1147,6 +1147,8 @@ The list is structured as follows:
   + [SAL_LandCover_Type_QuickCheck](https://yangdi1031.users.earthengine.app/view/sallandcovertypequickcheck)
 * [yangjie](https://yangjie.users.earthengine.app)
   + [GISA](https://yangjie.users.earthengine.app/view/gisa) &#8226; [observationCount](https://yangjie.users.earthengine.app/view/observationcount)
+* [yceo](https://yceo.users.earthengine.app/)
+  + [uhimap](https://yceo.users.earthengine.app/view/uhimap)
 * [ylfeng](https://ylfeng.users.earthengine.app)
   + [campfire](https://ylfeng.users.earthengine.app/view/campfire) &#8226; [campfireCA](https://ylfeng.users.earthengine.app/view/campfireca) &#8226; [campfirefirst2h](https://ylfeng.users.earthengine.app/view/campfirefirst2h) &#8226; [fire24](https://ylfeng.users.earthengine.app/view/fire24) &#8226; [ForestDisturbanceafterHurricaneMaria](https://ylfeng.users.earthengine.app/view/forestdisturbanceafterhurricanemaria) &#8226; [forestdisturbancemapinPR](https://ylfeng.users.earthengine.app/view/forestdisturbancemapinpr)
 * [yufujimoto](https://yufujimoto.users.earthengine.app)
