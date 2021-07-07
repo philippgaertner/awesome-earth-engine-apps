@@ -244,6 +244,8 @@ The list is structured as follows:
   + [Koppen_Geiger](https://dareyt.users.earthengine.app/view/koppengeiger) &#8226; [Koppen_Geiger2](https://dareyt.users.earthengine.app/view/koppengeiger2) &#8226; [SCF Sens Slope](https://dareyt.users.earthengine.app/view/scf-sens-slope) &#8226; [SWE_diff](https://dareyt.users.earthengine.app/view/swediff)
 * [datasetbanjir](https://datasetbanjir.users.earthengine.app)
   + [LST_JABAR(1)](https://datasetbanjir.users.earthengine.app/view/lstjabar1)
+* [davidlagomasino](https://davidlagomasino.users.earthengine.app) <a href="https://twitter.com/DLagomasino"><img src="images/twitter_logo_icon_16px.png"></a>
+  + [hurricaneirmamangroves](https://davidlagomasino.users.earthengine.app/view/hurricaneirmamangroves)
 * [davidparastatidis](https://davidparastatidis.users.earthengine.app)
   + [MODIS LST -Timeseries Inspector](https://davidparastatidis.users.earthengine.app/view/modis-lst--timeseries-inspector) &#8226; [EOVALUE NBS monitoring application](https://davidparastatidis.users.earthengine.app/view/sentinel-2-nbs-monitoring-application)
 * [davidtheobald8](https://davidtheobald8.users.earthengine.app)
