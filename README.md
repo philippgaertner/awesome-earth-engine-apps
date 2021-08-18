@@ -1,10 +1,10 @@
 # Welcome to awesome-earth-engine-apps
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GEE Apps](https://img.shields.io/badge/GEE%20Apps-1954-orange)](https://github.com/philippgaertner/awesome-earth-engine-apps)
+[![GEE Apps](https://img.shields.io/badge/GEE%20Apps-1958-orange)](https://github.com/philippgaertner/awesome-earth-engine-apps)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Follow](https://img.shields.io/twitter/follow/Mixed_Pixels?style=social)](https://twitter.com/Mixed_Pixels)
 
-An awesome list of all (1.954) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
+An awesome list of all (1.958) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
 
 <p align="center">
   <a href="https://jstnbraaten.users.earthengine.app/view/tropomi-explorer"><img alt="tropomi-explorer" src="images/tropomi-explorer.png" width="45%"></a>
@@ -779,8 +779,13 @@ The list is structured as follows:
   + [Aplicativo_corales](https://nandopando.users.earthengine.app/view/aplicativocorales) &#8226; [Basuras](https://nandopando.users.earthengine.app/view/basuras) &#8226; [Bosque_Antioquia](https://nandopando.users.earthengine.app/view/bosqueantioquia) &#8226; [Bosques](https://nandopando.users.earthengine.app/view/bosques) &#8226; [Bosques_antioquia](https://nandopando.users.earthengine.app/view/bosquesantioquia) &#8226; [Brasil](https://nandopando.users.earthengine.app/view/brasil) &#8226; [Cobervegetal_santa_lucia](https://nandopando.users.earthengine.app/view/cobervegetalsantalucia) &#8226; [ContaminaciÃ³n ](https://nandopando.users.earthengine.app/view/contaminacin) &#8226; [Corofila_mensual](https://nandopando.users.earthengine.app/view/corofilamensual) &#8226; [Dinamica_sedimentaria](https://nandopando.users.earthengine.app/view/dinamicasedimentaria) &#8226; [Dorada](https://nandopando.users.earthengine.app/view/dorada) &#8226; [Drone](https://nandopando.users.earthengine.app/view/drone) &#8226; [03GAS](https://nandopando.users.earthengine.app/view/gas) &#8226; [Glaciares](https://nandopando.users.earthengine.app/view/glaciares) &#8226; [Mapa Zonas Quemadas Colombia](https://nandopando.users.earthengine.app/view/mapa-zonas-quemadas-colombia) &#8226; [Productividad_marina_colombia](https://nandopando.users.earthengine.app/view/productividadmarinacolombia) &#8226; [providencia](https://nandopando.users.earthengine.app/view/providencia) &#8226; [Recorte_areas](https://nandopando.users.earthengine.app/view/recorteareas) &#8226; [Severidad](https://nandopando.users.earthengine.app/view/severidad) &#8226; [Sumideros](https://nandopando.users.earthengine.app/view/sumideros) &#8226; [Surgencia](https://nandopando.users.earthengine.app/view/surgencia)
 * [nateme16](https://nateme16.users.earthengine.app)
   + [Darryl Clarity](https://nateme16.users.earthengine.app/view/darryl-clarity)
-* [nclinton](https://nclinton.users.earthengine.app)
+* [nclinton](https://nclinton.users.earthengine.app) 
   + [NDVI Inspector](https://nclinton.users.earthengine.app/view/ndvi-inspector) &#8226; [Zoom box demo](https://nclinton.users.earthengine.app/view/zoom-box-demo)
+* [ndmorndiaye](https://ndmorndiaye.users.earthengine.app) <a href="https://twitter.com/papitau"><img src="images/twitter_logo_icon_16px.png"></a>
+  + [mor](https://ndmorndiaye.users.earthengine.app/view/mor)
+  + [senegalsoilhealth](https://ndmorndiaye.users.earthengine.app/view/senegalsoilhealth)
+  + [sipo](https://ndmorndiaye.users.earthengine.app/view/sipo)
+  + [test](https://ndmorndiaye.users.earthengine.app/view/test) 
 * [ndvi-masking-ex](https://ndvi-masking-ex.users.earthengine.app)
   + [PaddyRiceClassificationInChina](https://NDVI_Masking_ex.users.earthengine.app/view/paddyriceclassificationinchina) &#8226; [PaddyRiceFieldInBrazil](https://NDVI_Masking_ex.users.earthengine.app/view/paddyricefieldinbrazil) &#8226; [PaddyRiceFieldInColombia](https://NDVI_Masking_ex.users.earthengine.app/view/paddyricefieldincolombia)
 * [ndvichange](https://ndvichange.users.earthengine.app)
