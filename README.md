@@ -782,10 +782,7 @@ The list is structured as follows:
 * [nclinton](https://nclinton.users.earthengine.app) 
   + [NDVI Inspector](https://nclinton.users.earthengine.app/view/ndvi-inspector) &#8226; [Zoom box demo](https://nclinton.users.earthengine.app/view/zoom-box-demo)
 * [ndmorndiaye](https://ndmorndiaye.users.earthengine.app) <a href="https://twitter.com/papitau"><img src="images/twitter_logo_icon_16px.png"></a>
-  + [mor](https://ndmorndiaye.users.earthengine.app/view/mor)
-  + [senegalsoilhealth](https://ndmorndiaye.users.earthengine.app/view/senegalsoilhealth)
-  + [sipo](https://ndmorndiaye.users.earthengine.app/view/sipo)
-  + [test](https://ndmorndiaye.users.earthengine.app/view/test) 
+  + [mor](https://ndmorndiaye.users.earthengine.app/view/mor) &#8226; [senegalsoilhealth](https://ndmorndiaye.users.earthengine.app/view/senegalsoilhealth) &#8226; [sipo](https://ndmorndiaye.users.earthengine.app/view/sipo) &#8226; [test](https://ndmorndiaye.users.earthengine.app/view/test) 
 * [ndvi-masking-ex](https://ndvi-masking-ex.users.earthengine.app)
   + [PaddyRiceClassificationInChina](https://NDVI_Masking_ex.users.earthengine.app/view/paddyriceclassificationinchina) &#8226; [PaddyRiceFieldInBrazil](https://NDVI_Masking_ex.users.earthengine.app/view/paddyricefieldinbrazil) &#8226; [PaddyRiceFieldInColombia](https://NDVI_Masking_ex.users.earthengine.app/view/paddyricefieldincolombia)
 * [ndvichange](https://ndvichange.users.earthengine.app)
