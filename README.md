@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Follow](https://img.shields.io/twitter/follow/Mixed_Pixels?style=social)](https://twitter.com/Mixed_Pixels)
 
-An awesome list of all (1.958) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
+An awesome list of all (1.961) available [Google Earth Engine Apps](https://developers.google.com/earth-engine/guides/apps) and user-specific App Galleries.  No Earth Engine account is required to view or interact with a published App.
 
 <p align="center">
   <a href="https://jstnbraaten.users.earthengine.app/view/tropomi-explorer"><img alt="tropomi-explorer" src="images/tropomi-explorer.png" width="45%"></a>
@@ -231,6 +231,10 @@ The list is structured as follows:
   + [gppchange](https://crivard.users.earthengine.app/view/gppchange) &#8226; [Rangelands Explorer](https://crivard.users.earthengine.app/view/rangelands-explorer)
 * [csaybar](https://csaybar.users.earthengine.app) <a href="https://twitter.com/csaybar"><img src="images/twitter_logo_icon_16px.png"></a>
   + [csaa](https://csaybar.users.earthengine.app/view/csaa)
+* [cuvuliucalexandrei](https://cuvuliucalexandrei.users.earthengine.app) <a href="https://twitter.com/cuvuliucalex"><img src="images/twitter_logo_icon_16px.png"></a>
+  + [Lake ice phenology visualizer](https://cuvuliucalexandrei.users.earthengine.app/view/lake-ice-phenology-visualizer)
+  + [Light pollution and population density](https://cuvuliucalexandrei.users.earthengine.app/view/light-pollution-and-population-density)
+  + [Beirut port explosion](https://cuvuliucalexandrei.users.earthengine.app/view/exploziebeirut)
 * [cyr9699](https://cyr9699.users.earthengine.app)
   + [SDG](https://cyr9699.users.earthengine.app/view/sdg)
 * [czhang11](https://czhang11.users.earthengine.app)
